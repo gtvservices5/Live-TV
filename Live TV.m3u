@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="403788" tvg-name="Disney Channel USA (East Coast)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel USA (East Coast)
+http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 tvg-id="403674" tvg-name="Disney Junior USA (East Coast)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",Disney Junior USA (East Coast)
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="403837" tvg-name="Disney XD USA (East Coast)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD USA (East Coast)
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 tvg-id="403794" tvg-name="Freeform USA (East Coast)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="Movies, News, and TV Shows", Freeform USA (East Coast)
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="403620" tvg-name="Nickelodeon USA (East Coast)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon USA (East Coast)
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="403655" tvg-name="Nick Jr. USA (East Coast)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",Nick Jr. USA (East Coast)
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="8359" tvg-name="NickMusic USA (East Coast)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Kids",NickMusic USA (East Coast)
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="403847" tvg-name="NickToons USA (East Coast)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",NickToons USA (East Coast)
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="403461" tvg-name="Cartoon Network USA (East Coast)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="Kids",Cartoon Network USA (East Coast)
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="403576" tvg-name="Boomerang USA (East Coast)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="Kids",Boomerang USA (East Coast)
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
