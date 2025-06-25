@@ -19,3 +19,11 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="403576" tvg-name="Boomerang USA (East Coast)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="Kids",Boomerang USA (East Coast)
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1, Descendants (2015)
+http://192.168.1.74:8096/Videos/3d8482c303a6312ab9d91fddd6fc97bc/stream?api_key=ee9ff7bf382d4a478ce448048e894e91
+#EXTINF:-1, Descendants 2 (2017)
+http://192.168.1.74:8096/Videos/61ede3ce695bd211715a8381bdd1a569/stream?api_key=ee9ff7bf382d4a478ce448048e894e91
+#EXTINF:-1, Descendants 3 (2019)
+http://192.168.1.74:8096/Videos/56d2011492471c34781b7e1209a54df4/stream?api_key=ee9ff7bf382d4a478ce448048e894e91
+#EXTINF:-1, Descendants: The Rise of Red (2024)
+http://192.168.1.74:8096/Videos/2ce40c14faa6595528d10856eb39f692/stream?api_key=ee9ff7bf382d4a478ce448048e894e91
